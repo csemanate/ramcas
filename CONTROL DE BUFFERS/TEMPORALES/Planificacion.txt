@@ -1,0 +1,7 @@
+Cod_Empresa	Cod_HojaCB	HojaCB	Incluir	Campo	Clasificacion	Cambio_Porcentual	Redondeo	Tipo	Fecha	Comentario
+0190333973001	22	CPAI.xlsm	1	Estatus	AF	0.12	+	SUBIDA	43479	Cambio Gerencial Buffers
+0190333973001	22	CPAI.xlsm	1	Estatus	BF	-0.1	=	BAJADA	43479	Cambio Gerencial Buffers
+0190333973001	22	CPAI.xlsm	1	Estatus	CS	0.08	+	SUBIDA	43479	Cambio Gerencial Buffers
+0190333973001	10	RRFA.xlsm	1	Estatus	AF	0.12	+	SUBIDA	43479	Cambio Gerencial Buffers
+0190333973001	10	RRFA.xlsm	1	Estatus	BF	-0.1	=	BAJADA	43479	Cambio Gerencial Buffers
+0190333973001	10	RRFA.xlsm	1	Estatus	CS	0.08	+	SUBIDA	43479	Cambio Gerencial Buffers
